@@ -20,6 +20,6 @@
 
 
 ### 📅 일자 별 계획
-- 월,화: (이론) Object Detection 개념 공부
-- 수,목: (이론) SSD 논문 읽기
-- 금 : (실습) Pascal VOC 데이터셋을 이용해 SSD 원복하기
+- 월,화 : (이론) Object Detection 개념 공부
+- 수,목 : (이론) SSD 논문 읽기
+- 금    : (실습) Pascal VOC 데이터셋을 이용해 SSD 원복하기
