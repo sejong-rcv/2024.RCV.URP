@@ -22,13 +22,13 @@
 
 ###  학부인턴들의 Todo list
 - (필수) **일정에 맞게 자신의 역할 수행하기**
-- (필수) 사이버 연구윤리 교육 이수 및 연구실내 자료 외부 유출금지 [중요공지](https://github.com/sejong-rcv/2023.URP.Summer/issues/1)
-- (필수) 깃허브 이슈 사용법 [중요공지](https://github.com/sejong-rcv/2023.URP.Summer/issues/2)
-- (필수) 일일 Issue 기록 관련 공지 [일일 Issue](https://github.com/sejong-rcv/2023.URP.Summer/issues/3)
-- (필수) 연구실 서버 사용법 [서버사용법](2주차/[2023.Summer.URP]서버사용메뉴얼.pdf)
+- (필수) 사이버 연구윤리 교육 이수 및 연구실내 자료 외부 유출금지 [인턴생활에 관한 공지 사항](https://github.com/sejong-rcv/2024.RCV.URP/issues/2)
+- (필수) 일일 이슈 사용법 [중요공지](https://github.com/sejong-rcv/2024.RCV.URP/issues/3)
+- (필수) 일일 이슈 관련 안내 [중요공지](https://github.com/sejong-rcv/2024.RCV.URP/issues/4)
+- (필수) 연구실 서버 사용법 [서버사용법](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/0%EC%A3%BC%EC%B0%A8(OT)/%EC%84%9C%EB%B2%84%EC%82%AC%EC%9A%A9%EB%A9%94%EB%89%B4%EC%96%BC.pdf)
 
 
 ### 세미나
-- 매주 금요일 오후 4시 세미나 진행
-- 세미나 영상은 RCV 계정에 2023 Summer URP 재생목록에 "일부공개"로 업로드
+- 매주 월요일 오후 2시 세미나 진행
+- 세미나 영상은 RCV 계정에 2024 Summer URP 재생목록에 "일부공개"로 업로드
 - 세미나 발표영상 YouTube [바로가기](https://www.youtube.com/playlist?list=PLa8kMie0Pc0uqZd1mfFNmfkdVVHQYP9Tu)
