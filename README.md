@@ -31,4 +31,4 @@
 ### 세미나
 - 매주 월요일 오후 2시 세미나 진행
 - 세미나 영상은 RCV 계정에 2024 Summer URP 재생목록에 "일부공개"로 업로드
-- 세미나 발표영상 YouTube [바로가기](https://www.youtube.com/playlist?list=PLa8kMie0Pc0uqZd1mfFNmfkdVVHQYP9Tu)
+- 세미나 발표영상 YouTube [바로가기](https://www.youtube.com/playlist?list=PLa8kMie0Pc0vODmCEI5J2KEUd7VtTl_HS)
