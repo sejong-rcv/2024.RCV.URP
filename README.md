@@ -2,11 +2,11 @@
 2024학년도 하계 학부 연구 프로그램 (2024.07.01-2024.08.23), 12기 학부연구생
 
 ### 대상
-- 본 프로그램은 2023년 하계 학부 인턴십 학생들을 위함
+- 본 프로그램은 2024년 하계 학부 인턴십 학생들을 위함
 
 ### URP 진행 과정
 <p align="center">
-<img src="https://github.com/sejong-rcv/2023.URP.Summer/assets/79680972/d5a1886b-8525-4e77-88fd-dc7189b42e97">
+<img src="[https://github.com/sejong-rcv/2023.URP.Summer/assets/79680972/d5a1886b-8525-4e77-88fd-dc7189b42e97](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/0%EC%A3%BC%EC%B0%A8(OT)/urp.png)">
 </p>
 
 | 주차 | 학습 내용 | 세부 |
