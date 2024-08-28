@@ -5,8 +5,8 @@
 - 본 프로그램은 2023년 하계 학부 인턴십 학생들을 위함.
 
 ### URP 진행 과정
-<p align="center">
-<img src="https://github.com/sejong-rcv/2024.RCV.URP/blob/main/0%EC%A3%BC%EC%B0%A8(OT)/urp.png?raw=true">{: width="50%" height="50%"}
+<p align="left">
+<img src="https://github.com/sejong-rcv/2024.RCV.URP/blob/main/0%EC%A3%BC%EC%B0%A8(OT)/urp.png?raw=true" width="500px" height="300px">
 </p>
 
 | 주차 | 학습 내용 | 세부 |
