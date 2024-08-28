@@ -22,16 +22,15 @@
 > 평가코드는 [여기서](official_Evaluation/) 확인 가능
 
 
-### 📍 평가코드 돌리는 법
+### 📍 평가코드 돌리는 방법
 
 ```bash
-git clone https://github.com/sejong-rcv/2023.URP.Winter.git
-cd 3주차/official_Evaluation/
-# 아래 .py 파일에 들어가서 경로 변경 필수!
+git clone https://github.com/sejong-rcv/2024.RCV.URP.git
+# 아래 .py 파일에 들어가서 경로 변경!
 python Evaluation_official.py
 ```
 
 평가코드는 `kaist_annotations_test20.json` 라는 GT json 파일과 여러분이 생성해낸 `prediction_example.json`을 비교하여 성능을 계산합니다.   
 따라서 성능 확인을 위해서는 평가코드 포맷을 맞춘 `prediction_example.json` 파일을 생성해내야 합니다 (당연히 파일명은 자유로움)   
 
-Week.3/official_Evaluation/ 디렉토리 안에 있는 `prediction_example.json` 이 예제이므로, 해당 포맷에 맞춰 여러분 모델이 예측한 파일을 생성하시기 바랍니다!
+official_Evaluation/ 디렉토리 안에 있는 `prediction_example.json` 이 예제이므로, 해당 포맷에 맞춰 여러분 모델이 예측한 파일을 생성하시기 바랍니다!
