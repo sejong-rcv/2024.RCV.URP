@@ -5,16 +5,16 @@
 - 본 프로그램은 2023년 하계 학부 인턴십 학생들을 위함.
 
 ### URP 진행 과정
-<p align="left">
-<img src="https://github.com/sejong-rcv/2024.RCV.URP/blob/main/0%EC%A3%BC%EC%B0%A8(OT)/urp.png?raw=true" width="500px" height="300px">
+<p align="center">
+<img src="https://github.com/sejong-rcv/2024.RCV.URP/blob/main/0%EC%A3%BC%EC%B0%A8(OT)/urp.png?raw=true">{: width="50%" height="50%"}
 </p>
 
 | 주차 | 학습 내용 | 세부 |
 |:--:|:----:|:---|
 | 0주차 | 최유경 교수님 인공지능 수업 | [강의](https://www.youtube.com/watch?v=J6hiz5zfDC0&list=PL1xKqHsVFgvk8nB5kJ3N0fFt3etudUBWt) |
-| 0주차 | URP OT | [OT 자료](https://github.com/sejong-rcv/2023.URP.Summer/blob/main/1%EC%A3%BC%EC%B0%A8/%5B2023.Summer.URP%5D%20OT%20%EC%9E%90%EB%A3%8C.pdf)|
-| 1주차 | 인공지능 기초 | [Intro to DL](1주차/[2023.Summer.URP]Week1_Introduction_to_DL.pdf) / [Linear Regression](1주차/[2023.Summer.URP]LinearRegression.pdf) / [Numpy Backpropagation](1주차/[2023.Summer.URP]Numpy_Backpropagation.ipynb) |
-| 2주차 | SSD 기초 (PASCAL VOC) | [Object Detection](https://github.com/sejong-rcv/2023.URP.Summer/blob/main/2%EC%A3%BC%EC%B0%A8/2023_summer_urp_ssd.pdf) / [Paper](https://arxiv.org/pdf/1512.02325.pdf) / [Code](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
+| 0주차 | URP OT | [OT 자료](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/0%EC%A3%BC%EC%B0%A8(OT)/2024_Summer_URP_OT.pdf)|
+| 1주차 | 인공지능 기초 | [이론 자료](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/1%EC%A3%BC%EC%B0%A8(%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%9D%B4%EB%A1%A0%EC%8B%A4%EC%8A%B5)/%5BURP%5D%5B1%EC%A3%BC%EC%B0%A8%5D%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EC%B4%88.pdf) |
+| 2주차 | SSD 기초 (PASCAL VOC) | [Object Detection](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/2%EC%A3%BC%EC%B0%A8(%EA%B0%9D%EC%B2%B4%ED%83%90%EC%A7%80%20%EA%B8%B0%EC%B4%88)/2024-Summer_detection%20(1).pdf) / [Paper](https://arxiv.org/abs/1512.02325) / [Code](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
 | 3주차 | SSD 응용 (KAIST PD) | [KAIST PD](3주차) |
 | 4-6주차 | SSD 성능 개선 (KAIST PD) | [Challenge](https://docs.google.com/spreadsheets/d/1DjNl3xe3ppPehllVxZqlhs260U4mhHD-OuGKqZeTeNM/edit#gid=0) |
 | 7주차 | Camera Calibration | [이론 1](7주차/Calibration_1st/Calibration_v2_1.pdf) / [실습 1](7주차/Calibration_1st/example_v2.py) / [이론 2](7주차/Calibration_2nd/Calibration_v2_2.pdf) / [실습 2](7주차/Calibration_2nd/Calibration_2nd_실습.pdf)
