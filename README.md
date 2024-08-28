@@ -6,7 +6,7 @@
 
 ### URP 진행 과정
 <p align="center">
-<img src="https://github.com/sejong-rcv/2024.RCV.URP/blob/main/0%EC%A3%BC%EC%B0%A8(OT)/urp.png?raw=true">
+<img src="https://github.com/sejong-rcv/2024.RCV.URP/blob/main/0%EC%A3%BC%EC%B0%A8(OT)/urp.png?raw=true">{: width="50%" height="50%"}
 </p>
 
 | 주차 | 학습 내용 | 세부 |
