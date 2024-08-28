@@ -12,7 +12,7 @@
     - Applications of CNN(Convolutional Neural Network)
 
 - 실습 자료
-  - 실습은 캐글을 통해 진행됩니다. 캐글의 사용법은 [캐글사용법.pdf](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/1%EC%A3%BC%EC%B0%A8(%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%9D%B4%EB%A1%A0%EC%8B%A4%EC%8A%B5)/%EC%BA%90%EA%B8%80%EC%82%AC%EC%9A%A9%EB%B2%95.pdf)를 확인바랍니다.
+  - 실습은 캐글을 통해 진행됩니다. 캐글의 사용법은 [캐글사용법.pdf](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/1%EC%A3%BC%EC%B0%A8(%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%9D%B4%EB%A1%A0%2C%20%EC%8B%A4%EC%8A%B5)/%EC%BA%90%EA%B8%80%EC%82%AC%EC%9A%A9%EB%B2%95.pdf)를 확인바랍니다.
 
 - [문제1] [CNN model을 이용한 한국의 랜드마크 분류](https://www.kaggle.com/t/2c6907e80ad74a038e19e318cdf6de5b)
   - 문제1에서는 대한민국의 랜드마크 건물 10가지를 분류합니다.
