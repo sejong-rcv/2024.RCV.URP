@@ -4,7 +4,7 @@
 1. 인공지능의 기초에 대한 이론을 공부합니다. 💡
 2. 인공지능 모델을 활용한 실습 문제를 풀이합니다. 💻
 
-- 이론 자료 : [[URP][1주차]인공지능기초.pdf]([https://github.com/sejong-rcv/2024.RCV.URP/blob/main/1%EC%A3%BC%EC%B0%A8(%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%9D%B4%EB%A1%A0%EC%8B%A4%EC%8A%B5)/%5BURP%5D%5B1%EC%A3%BC%EC%B0%A8%5D%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EC%B4%88.pdf](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/1%EC%A3%BC%EC%B0%A8(%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%9D%B4%EB%A1%A0%2C%20%EC%8B%A4%EC%8A%B5)/%5BURP%5D%5B1%EC%A3%BC%EC%B0%A8%5D%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EC%B4%88.pdf))
+- 이론 자료 : [[URP][1주차]인공지능기초.pdf](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/1%EC%A3%BC%EC%B0%A8(%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%9D%B4%EB%A1%A0%2C%20%EC%8B%A4%EC%8A%B5)/%5BURP%5D%5B1%EC%A3%BC%EC%B0%A8%5D%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EC%B4%88.pdf)
     - 목차
     - What is Neural Network
     - Convolutional Neural Network
