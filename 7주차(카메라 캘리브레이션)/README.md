@@ -7,7 +7,7 @@
   
 ### ❓ 이번 Task가 필요한 이유는?
 - 컴퓨터 비전에서 카메라 기하학의 기초 개념 확립 및 캘리브레이션에 대한 이론적 이해
-- 캘리브레이션 실습을 통한 Camera Parameter 취득 과정 경험
+- 캘리브레이션 실습을 통한 Camera Parameter 취득 과정 경험 및 stereo vision에서의 disparity와 depth 추정 이해
 
 
 ### 📅 일자 별 계획
