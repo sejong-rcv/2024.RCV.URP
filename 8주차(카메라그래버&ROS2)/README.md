@@ -18,4 +18,4 @@
 
 
 ** 이론, 실습 참조 자료
-- [링크](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/8%EC%A3%BC%EC%B0%A8(%EC%B9%B4%EB%A9%94%EB%9D%BC%EA%B7%B8%EB%9E%98%EB%B2%84%26ROS2)/ref.md) 
+    -   [링크](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/8%EC%A3%BC%EC%B0%A8(%EC%B9%B4%EB%A9%94%EB%9D%BC%EA%B7%B8%EB%9E%98%EB%B2%84%26ROS2)/ref.md) 
