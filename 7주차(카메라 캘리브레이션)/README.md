@@ -11,6 +11,6 @@
 
 
 ### 📅 일자 별 계획
-- 월요일 (08.05) : Camera Calibration 이론 1 / Homography 실습
-- 화요일 (08.06-08.07) : Camera Calibration 이론 2
-- 목요일 (08.08-08.09) : Camera Calibration 실습
+- 월요일 (08.12) : Camera Calibration 이론 1 / Homography 실습
+- 화요일 (08.13-08.14) : Camera Calibration 이론 2
+- 목요일 (08.15-08.16) : Camera Calibration 실습
