@@ -6,7 +6,7 @@
 2. https://www.youtube.com/watch?v=0momYMFisZU
 3. https://goniblog.com/aroundview/#google_vignette
 4. https://parallaxphotographic.coop/shop/zero-image-135-back-to-nature-pinhole-camera/
-5. https://glosbe.com/en/ko/pinhole camera
+5. [https://glosbe.com/en/ko/pinhole camera](https://glosbe.com/en/ko/pinhole%20camera)
 6. https://www.schoolphysics.co.uk/age11-14/Light/text/Pinhole_camera/index.html
 7. https://m.blog.naver.com/nap5342/130175884319
 8. https://medium.com/@mar.salvalaggio/opencv-pt-1-geometric-transformation-f678b86d6b17
