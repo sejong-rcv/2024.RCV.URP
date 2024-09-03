@@ -34,3 +34,9 @@ python Evaluation_official.py
 따라서 성능 확인을 위해서는 평가코드 포맷을 맞춘 `prediction_example.json` 파일을 생성해내야 합니다 (당연히 파일명은 자유로움)   
 
 official_Evaluation/ 디렉토리 안에 있는 `prediction_example.json` 이 예제이므로, 해당 포맷에 맞춰 여러분 모델이 예측한 파일을 생성하시기 바랍니다!
+
+### 📅 주차 별 계획
+- 3주차 (07.15-19) : SSD - KAIST PD Dataset 성능 원복
+- 4주차 (07.22-26) : KAIST PD Dataset Challenge 1주차
+- 4주차 (07.29-08.02) : KAIST PD Dataset Challenge 2주차
+- 4주차 (08.05-09) : KAIST PD Dataset Challenge 3주차 (최종 주차) & Challenge 최종 발표
