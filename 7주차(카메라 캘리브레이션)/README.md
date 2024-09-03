@@ -14,3 +14,7 @@
 - 월요일 (08.12) : Camera Calibration 이론 1 / Homography 실습
 - 화요일 (08.13-08.14) : Camera Calibration 이론 2
 - 목요일 (08.15-08.16) : Camera Calibration 실습
+
+
+** 이론 참조 자료
+    -   [링크](https://github.com/sejong-rcv/2024.RCV.URP/blob/main/7%EC%A3%BC%EC%B0%A8(%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%BA%98%EB%A6%AC%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%85%98)/ref.md) 
