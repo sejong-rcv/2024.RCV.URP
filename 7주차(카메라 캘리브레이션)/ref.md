@@ -21,14 +21,14 @@
 17. https://www.geoweeknews.com/news/mapillary_3d_object_recognition
 18. https://deepbaksuvision.github.io/Modu_ObjectDetection/posts/02_00_Datasets_for_Object_Detection.html
 
-- Mixed-reality spatial configuration with a zed mini stereoscopic camera, Chotrov et al (Conf. Techno. Edu. Smart World. 2018)
-- A unifersal vacant parking slot recognition system using sensors mounted on off-the-shelf vehicles, Suhr et al (Sensors 2018)
-- Adaptive hybrid mean and median filtering of high-ISO long-exposure sensor noise for digital photography, Rabie et al (J. Electron. Imaging 2004)
-- Automatic calibration of an around view monitor system exploiting lane markings, Choi et al (Sensors 2018)
-- Adaptive depth-map coding for 3d-video, Kim et al (IEICE Trans. Inf.& Syst. 2010)
+19. Mixed-reality spatial configuration with a zed mini stereoscopic camera, Chotrov et al (Conf. Techno. Edu. Smart World. 2018)
+20. A unifersal vacant parking slot recognition system using sensors mounted on off-the-shelf vehicles, Suhr et al (Sensors 2018)
+21. Adaptive hybrid mean and median filtering of high-ISO long-exposure sensor noise for digital photography, Rabie et al (J. Electron. Imaging 2004)
+22. Automatic calibration of an around view monitor system exploiting lane markings, Choi et al (Sensors 2018)
+23. Adaptive depth-map coding for 3d-video, Kim et al (IEICE Trans. Inf.& Syst. 2010)
 
-- Multiple view geometry in computer vision by richard hartley and andrew zisserman
-- Cernegie Mellon University Computer Graphics lecture
-- Computer Vision: Algorithms and Applications 2nd Edition by  Richard Szeliski
-- Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL by Edward Angel and DAVE SHREINER
+24. Multiple view geometry in computer vision by richard hartley and andrew zisserman
+25. Cernegie Mellon University Computer Graphics lecture
+26. Computer Vision: Algorithms and Applications 2nd Edition by  Richard Szeliski
+27. Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL by Edward Angel and DAVE SHREINER
 
