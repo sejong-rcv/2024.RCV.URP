@@ -1,3 +1,51 @@
 ### 그래버 이론
 1. https://www.ted.com/talks/joseph_redmon_how_computers_learn_to_recognize_objects_instantly?subtitle=en
-2. 
+2. https://www.sae.org/blog/sae-j3016-update
+3. https://medium.com/acing-ai/uber-case-study-the-state-of-autonomous-transport-42bf2da90fb3
+4. https://www.uber.com/kr/ko/autonomous/
+5. https://namu.wiki/w/%ED%9C%B4%EB%B3%B4
+6. https://www.figure.ai/
+7. https://velog.io/@bbirong/GNSS-DGPS-RTK
+8. https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=TRKO202200004053&dbt=TRKO&rn=&page=15&keyword=undefined
+9. https://ko.wikipedia.org/wiki/TOPEX/Poseidon
+10. https://blog.naver.com/olympiad_math/221593137115
+11. https://m.blog.naver.com/PostView.nhn?blogId=lagrange0115&logNo=220767476955&proxyReferer=https:%2F%2Fwww.google.com%2F
+12. https://kcbm.modoo.at/
+13. https://windy.app/textbook/what-is-the-coriolis-force-simple-explanation.html
+14. https://www.chunshangli.com/2018/12/20/stereo-vio.html
+15. https://www.researchgate.net/publication/343488783_Unsupervised_Deep_Learning-Based_RGB-D_Visual_Odometry
+16. https://v.daum.net/v/AYnWA626Tw?f=p
+17. https://yhedu.modoo.at/?link=6i80wo7y
+18. https://www.intelrealsense.com/depth-camera-d435/
+19. https://www.researchgate.net/figure/A-pair-of-RGB-D-images-captured-with-Intel-RealSense-camera-The-left-figure-shows-a_fig8_312541409
+20. https://www.youtube.com/watch?v=nxUDHcZl1uo
+21. https://www.researchgate.net/figure/CCD-blooming-and-smear-a-A-CCD-captured-image-with-blooming-and-smear-b-another_fig2_315944464
+22. https://www.flirkorea.com/discover/rd-science/high-speed-thermal-cameras--the-need-for-speed/
+23. https://www.edmundoptics.co.kr/knowledge-center/application-notes/imaging/what-is-swir/
+24. https://www.infratec.eu/thermography/wegweiser/physical-principles/
+25. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10077447
+26. https://www.precisionphotonicdevices.info/
+27. https://r1.community.samsung.com/t5/camcyclopedia/%EC%84%BC%EC%84%9C/ba-p/19975709
+28. https://en.wikipedia.org/wiki/File:Colorful_spring_garden_Bayer.png
+29. https://darkpgmr.tistory.com/97
+30. https://blog.naver.com/PostView.naver?blogId=godnanai&logNo=220755021755
+31. https://greenyphoto.tistory.com/entry/%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%95%84%EC%9B%83-%ED%8F%AC%EC%BB%A4%EC%8B%B1%EA%B3%BC-%ED%8C%AC-%ED%8F%AC%EC%BB%A4%EC%8B%B1%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0?category=902145
+32. https://iceland-photo-tours.com/articles/photography-techniques/depth-of-field-in-photography
+33. https://themodestphotographer.com/what-is-shutter-speed-in-photography/
+34. https://www.adobe.com/kr/creativecloud/photography/discover/shutter-speed.html
+35. https://creativeraw.com/what-is-iso-simple-guide-beginners-manual-mode/
+36. https://blog.naver.com/PostView.naver?blogId=gmgm1010&logNo=221172589536
+37. https://robynsphotographyacademy.com/what-is-focal-length/
+38. https://jakspedding.co.uk/what-does-focal-length-mean/
+39. https://kidd.co.kr/news/220105
+40. https://visionsystem.kr/technical-info?tpf=board/view&board_code=1&code=4898
+41. https://medium.com/@cloudsharesseo/how-to-share-resources-between-two-computers-a858c2802e3f
+42. https://developer.nvidia.com/embedded/learn/get-started-jetson-orin-nano-devkit
+43. https://sepiros.tistory.com/5
+44. https://hanrabong.com/entry/Linux-Linux-File-Hierarchy-Structure
+45. https://www.eureca.de/files/pdf/optoelectronics/flir/FL3-GE-Technical-Reference.pdf
+
+### ROS2 이론 & 실습
+1. https://www.notion.so/ROS-2-for-G-Camp-6f86b29e997e445badb69cc0af825a71?pvs=4
+2. 임태훈 <ROS 2로 시작하는 로봇 프로그래밍> 루피페이퍼(2022)
+3. https://docs.ros.org/en/foxy/index.html
